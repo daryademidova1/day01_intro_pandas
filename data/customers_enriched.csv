@@ -1,0 +1,6 @@
+customer_id,name,age,city,spent_usd,joined_at,spent_pln,name_upper,year_joined,spent_usd_filled,age_bin
+101,Ana,28,Warsaw,120.5,2024-03-15,482.0,ANA,2024,120.5,<30
+102,Ben,41,Krakow,89.9,2023-11-02,359.6,BEN,2023,89.9,40-49
+103,Cam,33,Gdansk,,2024-01-08,,CAM,2024,185.2875,30-39
+104,Dor,28,Warsaw,220.0,2023-12-21,880.0,DOR,2023,220.0,<30
+105,Eli,52,Wroclaw,310.75,2022-07-30,1243.0,ELI,2022,310.75,50+

@@ -1,0 +1,6 @@
+customer_id,name,age,city,spent_usd,joined_at
+101,Ana,28,Warsaw,120.50,2024-03-15
+102,Ben,41,Krakow,89.90,2023-11-02
+103,Cam,33,Gdansk,,2024-01-08
+104,Dor,28,Warsaw,220.00,2023-12-21
+105,Eli,52,Wroclaw,310.75,2022-07-30
